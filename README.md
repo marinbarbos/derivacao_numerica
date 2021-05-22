@@ -1,6 +1,9 @@
 # derivacao_numerica
 Código de derivação numérica para a matéria de Cálculo numérico II UNESP Rio Claro
-
+==================================
+para rodar:
+`python derivacao_numerica.py `
+-------------------------------------------
 **Requisitos**
 Implementar em qualquer linguagem de programação:
 
